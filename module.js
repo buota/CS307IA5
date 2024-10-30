@@ -16,4 +16,5 @@ function containsNumber(text){
 	return false;
 }
 
+
 export default { sum, div, containsNumbers };
